@@ -5,7 +5,7 @@
 
 ### I'm a web developer. Started from learning Android Studio in my degree study, I stumbled upon ReactJS and have been developing website since then. [Take a look on my protfolio](https://irfanzahir.com).
 
-### Current project : [unoffocial-mybsn](https://github.com/irfan-zahir/unofficial-mybsn)
+### Current project : Personal Inventory management system project
 
 ### My stacks:
 - [expo-next13](https://github.com/irfan-zahir/expo-next13)
