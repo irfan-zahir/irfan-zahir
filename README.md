@@ -15,8 +15,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,react,nextjs,vite,tailwind,nodejs,go,py,postgres,sqlite,cloudflare,git&theme=dark" />
-    <img src="https://skillicons.dev/icons?i=ts,react,nextjs,vite,tailwind,nodejs,go,py,postgres,sqlite,cloudflare,git&theme=light" alt="TypeScript, React, Next.js, Vite, Tailwind, Node.js, Go, Python, Postgres, SQLite, Cloudflare, Git" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts%2Creact%2Cnextjs%2Cvite%2Ctailwind%2Cnodejs%2Cgo%2Cpy%2Cpostgres%2Csqlite%2Ccloudflare%2Cgit&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=ts%2Creact%2Cnextjs%2Cvite%2Ctailwind%2Cnodejs%2Cgo%2Cpy%2Cpostgres%2Csqlite%2Ccloudflare%2Cgit&theme=light" alt="TypeScript, React, Next.js, Vite, Tailwind, Node.js, Go, Python, Postgres, SQLite, Cloudflare, Git" />
   </picture>
 </p>
 
@@ -25,5 +25,5 @@
   <a href="https://t.me/irfanzahir">Telegram</a> &nbsp;·&nbsp;
   <a href="https://discord.com/users/616791602702057483">Discord</a>
   <br />
-  <sub><img src="https://komarev.com/ghpvc/?username=irfan-zahir&style=flat-square&color=8b5cf6&label=profile+views" alt="Profile views" /></sub>
+  <sub><img src="https://komarev.com/ghpvc/?username=irfan-zahir&style=flat-square&color=2747f5&label=profile+views" alt="Profile views" /></sub>
 </p>
