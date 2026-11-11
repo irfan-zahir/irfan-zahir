@@ -21,8 +21,8 @@
 </p>
 
 <p align="center">
-  <a href="https://x.com/_irfanzahir">X</a> &nbsp;·&nbsp;
   <a href="https://t.me/irfanzahir">Telegram</a> &nbsp;·&nbsp;
+  <a href="https://x.com/_irfanzahir">X</a> &nbsp;·&nbsp;
   <a href="https://discord.com/users/616791602702057483">Discord</a>
   <br />
   <sub><img src="https://komarev.com/ghpvc/?username=irfan-zahir&style=flat-square&color=2747f5&label=profile+views" alt="Profile views" /></sub>
