@@ -1,46 +1,29 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg" />
+  <img src="assets/hero-light.svg" width="100%" alt="Irfan Zahir — full-stack developer building web and mobile apps, and running AI models locally" />
+</picture>
 
+<br />
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/bento-dark.svg" />
+  <img src="assets/bento-light.svg" width="100%" alt="What I do: web apps with React and Next.js, cross-platform mobile apps with Expo, backends in Go and Node.js, and local AI on Apple Silicon" />
+</picture>
 
-# Hello there, I'm Irfan!
+<br />
+<br />
 
-### I'm a web developer. Started from learning Android Studio in my degree study, I stumbled upon ReactJS and have been developing website since then. [Take a look on my protfolio](https://irfanzahir.com).
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,react,nextjs,vite,tailwind,nodejs,go,py,postgres,sqlite,cloudflare,git&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=ts,react,nextjs,vite,tailwind,nodejs,go,py,postgres,sqlite,cloudflare,git&theme=light" alt="TypeScript, React, Next.js, Vite, Tailwind, Node.js, Go, Python, Postgres, SQLite, Cloudflare, Git" />
+  </picture>
+</p>
 
-### Current project : Personal Inventory management system project
-
-### My stacks:
-- [expo-next13](https://github.com/irfan-zahir/expo-next13)
-- React-Firebase
-- MERN
-
-### Tools & Frameworks:
-
-<img align="left" alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Firebase" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
-<img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node.js" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Bootstrap" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
-<img align="left" alt="Flutter" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
-<img align="left" alt="Dart" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" />
-
-\
-\
-
-
-### Connect on :
-
-\
- [<img align="left" alt="codeSTACKr | Telegram" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" />](https://t.me/irfanzahir)
- [<img align="left" alt="codeSTACKr | Twitter" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png" />](https://twitter.com/_irfanzahir)
- [<img align="left" alt="codeSTACKr | Twitter" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discord/discord.png" />](https://discordapp.com/users/616791602702057483)
-
-
-\
-\
-![](https://komarev.com/ghpvc/?username=irfan-zahir&color=blueviolet)
-
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=irfan-zahir&theme=tokyonight)
+<p align="center">
+  <a href="https://x.com/_irfanzahir">X</a> &nbsp;·&nbsp;
+  <a href="https://t.me/irfanzahir">Telegram</a> &nbsp;·&nbsp;
+  <a href="https://discord.com/users/616791602702057483">Discord</a>
+  <br />
+  <sub><img src="https://komarev.com/ghpvc/?username=irfan-zahir&style=flat-square&color=8b5cf6&label=profile+views" alt="Profile views" /></sub>
+</p>

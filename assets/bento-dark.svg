@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 262" width="1000" height="262" role="img" aria-label="What I do: Web apps — Fast, polished interfaces with React and Next.js.; Mobile — Cross-platform apps from a single codebase.; Backend — APIs, auth and data, self-hosted when it fits.; Local AI — Running and wiring up models on Apple Silicon.">
+<title>What I do: Web apps — Fast, polished interfaces with React and Next.js.; Mobile — Cross-platform apps from a single codebase.; Backend — APIs, auth and data, self-hosted when it fits.; Local AI — Running and wiring up models on Apple Silicon.</title>
+<defs></defs>
+<style>
+.sans{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Inter",Helvetica,Arial,sans-serif}
+.mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",monospace}
+.caret{animation:caret 1.1s steps(1) infinite}
+@keyframes caret{50%{opacity:0}}
+.blink{animation:blink 1.1s steps(1) infinite}
+@keyframes blink{50%{fill-opacity:0}}
+.rise{animation:rise .7s cubic-bezier(.2,.7,.2,1) backwards}
+@keyframes rise{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+.on{animation:on .01s backwards}
+@keyframes on{from,to{opacity:0}}
+.ty{animation:ty .01s backwards}
+@keyframes ty{from,to{fill-opacity:0}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<defs><clipPath id="card"><rect width="1000" height="262" rx="4"/></clipPath></defs>
+<g clip-path="url(#card)">
+  <rect width="1000" height="262" fill="#0e0f12"/>
+  <text x="26" y="36" class="mono" font-size="11.5" letter-spacing="1.6" fill="#868b95">WHAT I DO</text>
+  <text x="974" y="36" text-anchor="end" class="mono" font-size="11.5" letter-spacing="1.6" fill="#868b95">(04)</text>
+  <path d="M26 54.5H974" stroke="#eef0f4" stroke-opacity=".2"/>
+  <g class="rise" style="animation-delay:0.00s">
+  <text x="26" y="92" class="mono" font-size="13" font-weight="700" fill="#5c7cff">01</text>
+  <text x="26" y="128" class="sans" font-size="25" font-weight="800" letter-spacing="-.8" fill="#eef0f4">Web apps</text>
+  <text x="26" y="158" class="sans" font-size="14.5" fill="#868b95">Fast, polished interfaces</text><text x="26" y="179" class="sans" font-size="14.5" fill="#868b95">with React and Next.js.</text>
+  <text x="26" y="236" class="mono" font-size="10.5" letter-spacing="1.2" fill="#eef0f4">REACT / NEXT.JS / TAILWIND</text>
+</g><g class="rise" style="animation-delay:0.08s">
+  <text x="276" y="92" class="mono" font-size="13" font-weight="700" fill="#5c7cff">02</text>
+  <text x="276" y="128" class="sans" font-size="25" font-weight="800" letter-spacing="-.8" fill="#eef0f4">Mobile</text>
+  <text x="276" y="158" class="sans" font-size="14.5" fill="#868b95">Cross-platform apps from</text><text x="276" y="179" class="sans" font-size="14.5" fill="#868b95">one TypeScript codebase.</text>
+  <text x="276" y="236" class="mono" font-size="10.5" letter-spacing="1.2" fill="#eef0f4">EXPO / REACT NATIVE</text>
+</g><path d="M250.5 56V244" stroke="#eef0f4" stroke-opacity=".2"/><g class="rise" style="animation-delay:0.16s">
+  <text x="526" y="92" class="mono" font-size="13" font-weight="700" fill="#5c7cff">03</text>
+  <text x="526" y="128" class="sans" font-size="25" font-weight="800" letter-spacing="-.8" fill="#eef0f4">Backend</text>
+  <text x="526" y="158" class="sans" font-size="14.5" fill="#868b95">APIs, auth and data —</text><text x="526" y="179" class="sans" font-size="14.5" fill="#868b95">self-hosted when it fits.</text>
+  <text x="526" y="236" class="mono" font-size="10.5" letter-spacing="1.2" fill="#eef0f4">GO / NODE.JS / POSTGRES</text>
+</g><path d="M500.5 56V244" stroke="#eef0f4" stroke-opacity=".2"/><g class="rise" style="animation-delay:0.24s">
+  <text x="776" y="92" class="mono" font-size="13" font-weight="700" fill="#5c7cff">04</text>
+  <text x="776" y="128" class="sans" font-size="25" font-weight="800" letter-spacing="-.8" fill="#eef0f4">Local AI</text>
+  <text x="776" y="158" class="sans" font-size="14.5" fill="#868b95">Running and wiring up</text><text x="776" y="179" class="sans" font-size="14.5" fill="#868b95">models on Apple Silicon.</text>
+  <text x="776" y="236" class="mono" font-size="10.5" letter-spacing="1.2" fill="#eef0f4">MLX / PYTHON</text>
+</g><path d="M750.5 56V244" stroke="#eef0f4" stroke-opacity=".2"/>
+</g>
+</svg>
